@@ -25,7 +25,7 @@ fi
 sudo apt update
 sudo apt-get install \
  nvidia-jetpack \
- python3-vpi1 \
+ python3.8-vpi2 \
  python3-libnvinfer-dev \
  python2.7-dev \
  python-dev \
